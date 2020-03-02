@@ -24,6 +24,7 @@ body {
   -webkit-transition: .4s transform;
   transition: .4s transform;
   color: #fff;
+  margin-top: 2px;
 }
 
 .my-btn-secondary:hover {
